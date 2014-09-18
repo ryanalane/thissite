@@ -1,2 +1,9 @@
 name: This site.
 exclude: ['scss/*']
+
+asset_pipelien:
+  bundle: true
+  compress: true
+  output_path: assets
+  dispaly_path: nil
+  gzip: false
