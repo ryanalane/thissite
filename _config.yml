@@ -1,5 +1,5 @@
 name: This site.
-exclude: ['scss/*']
+exclude: ['scss/*', 'vendor']
 
 asset_pipelien:
   bundle: true
